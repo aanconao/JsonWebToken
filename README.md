@@ -1,6 +1,11 @@
 # Fresh project
 
-MiddleWare IMPORTANTE
+MiddleWare IMPORTANTE ENTRA EN EXAMEN
+Cookies
+Layaout siempre se muestre y ocultarlo en un "/" especifico como un login 
+
+Puede entrar con mongoo. REPASAR schemas
+
 
 Your new Fresh project is ready to go. You can follow the Fresh "Getting
 Started" guide here: https://fresh.deno.dev/docs/getting-started
